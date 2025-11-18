@@ -4,7 +4,31 @@ let b = null
 let valueInNumber = Number(a) //NaN
 let nullInNumber = Number(b)
 
-console.log(nullInNumber)
+//console.log(nullInNumber)
 
 // 1 => true
 //33abc => NaN
+
+/////////////////////OPERATIONS//////////////////////////////////////////////
+let val = 3
+let negVal = -val
+//console.log(negVal)
+
+// console.log(2+2)
+// console.log(2*2)
+// console.log(2%7)
+// console.log(2/2)
+
+
+// console.log("1"+2)
+// console.log(1+"2")
+// console.log("1"+2+3)
+// console.log(1+2+"3")
+
+//console.log(+true);
+
+let gamecount=11
+
+console.log(++gamecount);
+
+
