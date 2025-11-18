@@ -1,0 +1,10 @@
+let a ="33avc"
+let b = null
+
+let valueInNumber = Number(a) //NaN
+let nullInNumber = Number(b)
+
+console.log(nullInNumber)
+
+// 1 => true
+//33abc => NaN
