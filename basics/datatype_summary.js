@@ -22,3 +22,10 @@ const func = function()
 {
     console.log("Uttam")
 }
+
+
+
+/////////////////////////////////+++++++++++++++++++++//////////////////
+
+// Stack(Primitive) , Heap (Non-Primitive)
+
